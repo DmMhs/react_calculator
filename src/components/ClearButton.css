@@ -1,0 +1,19 @@
+.clear-btn {
+	height: 4rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-weight: lighter;
+	font-size: 1.4rem;
+	background-color: lightgray;
+	color: #333;
+	flex: 1;
+	outline: 1px solid #888;
+}
+.clear-btn:hover {
+	cursor: default;
+	background-color: darkgray;
+}
+img {
+	margin-left: 10px;
+}
